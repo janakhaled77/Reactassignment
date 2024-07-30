@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+  background-color: rgb(50, 161, 126);
+  color: white;
+  padding: 7px;
+  border-radius: 7px;
+}
+.text-teal{
+  color: rgb(50, 161, 126);
+}
+.bg-teal{
+  background-color:rgb(50, 161, 126);
+}
+
